@@ -13,6 +13,9 @@ Icon
 
 # Ignore PDFs
 *.pdf
+*.PDF
+*.png
+*.PNG
 
 # Thumbnails
 ._*
